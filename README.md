@@ -27,6 +27,8 @@ This portfolio landing page serves as an introduction to our work, projects, and
 - CSS3
   
 <font color="red">The webpage is still in development stage, so it can't be visited for now...but you can join us in building it.🕳 </font>
+This is <font color="red">red text</font> and this is <font color="blue">blue text</font>.
+
 
 ## Getting Started
 To view our portfolio landing page, you can simply visit [Your Portfolio URL](https://your-portfolio-url.com). If you want to run this locally or contribute to the project, follow these steps:
