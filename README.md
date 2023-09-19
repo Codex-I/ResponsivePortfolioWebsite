@@ -1,6 +1,6 @@
-# Our Portfolio Landing Page
+# Cartoon Developers Portfolio Landing Page
 
-Welcome to our portfolio landing page! This is a simple showcase of our work and skills as [Your Profession or Field].
+Welcome to our portfolio landing page! This is a simple showcase of our work and skills as [Group of Developers].
 
 ![Portfolio Landing Page Screenshot](Design/Template.jfif)
 
@@ -18,9 +18,9 @@ Welcome to our portfolio landing page! This is a simple showcase of our work and
 This portfolio landing page serves as an introduction to our work, projects, and skills. It provides a brief overview of who we are and what we can offer to potential employers or collaborators. You can find more details about each of us in the "About" section.
 
 ## Owners
-- [Procodx](https://github.com/Procodx)
-- [AshleyAcer](https://github.com/ashleyacer)
-- [JosephDave]()
+- [Procodx💻](https://github.com/Procodx)
+- [AshleyAcer💻](https://github.com/ashleyacer)
+- [YoungDV17💻](https://github.com/youngDV17)
 
 ## Features
 - Clean and minimalist design
@@ -33,7 +33,6 @@ This portfolio landing page serves as an introduction to our work, projects, and
 - CSS3
   
 ### The webpage is still in development stage, so it can't be visited for now...but you can join us in building it.🕳 
-
 
 
 ## Getting Started
