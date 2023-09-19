@@ -26,8 +26,8 @@ This portfolio landing page serves as an introduction to our work, projects, and
 - HTML5
 - CSS3
   
-<font color="red">The webpage is still in development stage, so it can't be visited for now...but you can join us in building it.🕳 </font>
-This is <font color="red">red text</font> and this is <font color="blue">blue text</font>.
+### The webpage is still in development stage, so it can't be visited for now...but you can join us in building it.🕳 
+
 
 
 ## Getting Started
