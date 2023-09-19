@@ -25,6 +25,8 @@ This portfolio landing page serves as an introduction to our work, projects, and
 ## Technologies Used
 - HTML5
 - CSS3
+  
+## The webpage is still in development stage, so it can't be visited for now...but you can join us in building it.🕳 
 
 ## Getting Started
 To view our portfolio landing page, you can simply visit [Your Portfolio URL](https://your-portfolio-url.com). If you want to run this locally or contribute to the project, follow these steps:
