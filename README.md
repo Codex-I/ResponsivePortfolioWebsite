@@ -6,6 +6,7 @@ Welcome to our portfolio landing page! This is a simple showcase of our work and
 
 ## Table of Contents
 - [About](#about)
+- [Owners](#owners)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
@@ -15,6 +16,11 @@ Welcome to our portfolio landing page! This is a simple showcase of our work and
 
 ## About
 This portfolio landing page serves as an introduction to our work, projects, and skills. It provides a brief overview of who we are and what we can offer to potential employers or collaborators. You can find more details about each of us in the "About" section.
+
+## Owners
+- [Procodx](https://github.com/Procodx)
+- [AshleyAcer]()
+- [JosephDave]()
 
 ## Features
 - Clean and minimalist design
@@ -31,10 +37,10 @@ This portfolio landing page serves as an introduction to our work, projects, and
 
 
 ## Getting Started
-To view our portfolio landing page, you can simply visit [Your Portfolio URL](https://your-portfolio-url.com). If you want to run this locally or contribute to the project, follow these steps:
+To view our portfolio landing page, you can simply visit [Portfolio URL](https://github.com/Procodx/ResponsivePortfolioWebsite.git). If you want to run this locally or contribute to the project, follow these steps:
 
 1. Clone this repository:
- - git clone https://github.com/your-username/your-portfolio.git
+ - git clone https://github.com/Procodx/ResponsivePortfolioWebsite.git
 
 2. Open the `index.html` file in your web browser or set up a local development environment if needed.
 
