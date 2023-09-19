@@ -19,7 +19,7 @@ This portfolio landing page serves as an introduction to our work, projects, and
 
 ## Owners
 - [Procodx](https://github.com/Procodx)
-- [AshleyAcer]()
+- [AshleyAcer](https://github.com/ashleyacer)
 - [JosephDave]()
 
 ## Features
