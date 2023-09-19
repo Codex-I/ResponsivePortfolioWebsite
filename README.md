@@ -2,7 +2,7 @@
 
 Welcome to our portfolio landing page! This is a simple showcase of our work and skills as [Your Profession or Field].
 
-![Portfolio Landing Page Screenshot](Design/)
+![Portfolio Landing Page Screenshot](Design/Responsive  Portfolio Website using HTML CSS & JavaScript.jfif)
 
 ## Table of Contents
 - [About](#about)
