@@ -1,11 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Open+Sans&display=swap');
+
+
+:root {
+  --gradient-shadow: linear-gradient(
+    45deg,
+    #fb0094,
+    #0000ff,
+    #00ff00,
+    #ffff00,
+    #ff0000,
+    #fb0094,
+    #0000ff,
+    #00ff00,
+    #ffff00,
+    #ff0000
+  );
+}
+
+
+
 body{
     background-image: url(./Images/mesh-gradients.svg);
     background-size: cover;
     background-repeat: none;
 
 }
+/* main{
+    /* box-shadow: 5px 10px #888888; */
+   /* filter: blur(10%); 
+
+} */
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 
 .logo img{
     width: 70px;
     height: auto ;
 }
+
+.navlinks{
+    display: flex;
+    gap: 30px;
+}
+
+.navlinks a{
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+}
+
+.shadow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+    /* font-size: 50px; */
+    /* font-weight: bold; */
+     /* width: 200px; 
+    height: 50px; */
+    padding: 10px 20px 10px 20px;
+    background: linear-gradient(0deg, #000, #262626);
+}
+
+.shadow:before,
+.shadow:after {
+content: "";
+position: absolute;
+top: -2px;
+left: -2px;
+background: var(--gradient-shadow);
+background-size: 400%;
+width: calc(100% + 4px);
+height: calc(100% + 4px);
+z-index: -1;
+animation: animate 20s linear infinite;
+}
+  
+.shadow:after {
+filter: blur(20px);
+}
+  
+@keyframes animate {
+    0% {
+        background-position: 0 0;
+    }
+    50% {
+        background-position: 300% 0;
+    }
+    100% {
+        background-position: 0 0;
+    }
+}
+
+.container{
+    display : flex;
+    justify-content: space-around;
+}
+  
