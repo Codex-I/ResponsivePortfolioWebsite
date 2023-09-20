@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&family=Open+Sans&display=swap');
-
+@import url("https://fonts.googleapis.com/css?family=Lora:400,400i,700");
 
 :root {
   --gradient-shadow: linear-gradient(
@@ -17,13 +17,10 @@
   );
 }
 
-
-
 body{
     background-image: url(./Images/mesh-gradients.svg);
     background-size: cover;
     background-repeat: none;
-
 }
 /* main{
     /* box-shadow: 5px 10px #888888; */
@@ -53,6 +50,7 @@ body{
     color: black;
 }
 
+/* first button design */
 .shadow {
     display: flex;
     justify-content: center;
@@ -63,10 +61,6 @@ body{
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
     font-weight: 200;
-    /* font-size: 50px; */
-    /* font-weight: bold; */
-     /* width: 200px; 
-    height: 50px; */
     padding: 10px 20px 10px 20px;
     background: linear-gradient(0deg, #000, #262626);
 }
@@ -101,8 +95,53 @@ filter: blur(20px);
     }
 }
 
+/* container holding both the image and the paragraph */
 .container{
     display : flex;
     justify-content: space-around;
 }
+
+/* second button design */
+.button {
+    width: 10rem;
+    height: 3rem;
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 0px;
+    cursor: pointer;
+    outline: 0px;
+    padding: 0 2px;
+    font-weight: 600;
+    font-size: 14px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  }
+
+  .button a{
+    text-decoration: none !important ;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+  }
   
+  .backdrop {
+    position: relative;
+    display: block;
+    width: 10rem;
+    height: 3rem;
+    background-color: rgb(36, 33, 228);
+    z-index: -1;
+    bottom: 23px;
+    left: 20%;
+    border-radius: 15px;
+    transform: translateX(-50%) translateY(-50%);
+    transition: all ease-in-out 0.5s;
+  }
+  
+  .button:hover + .backdrop {
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    transform: rotate(15deg) translateX(-50%) translateY(-50%);
+  }
+  
+  .button:active,.button:active +.backdrop {
+    box-shadow: none;
+  }
