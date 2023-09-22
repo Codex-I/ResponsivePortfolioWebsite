@@ -50,6 +50,8 @@ body{
     color: black;
 }
 
+
+  /* DO NOT TOUCH OR EDIT EXCEPT GIVEN PERMISSION TO DO SO */
 /* first button design */
 .shadow {
     display: flex;
@@ -146,6 +148,7 @@ filter: blur(20px);
     box-shadow: none;
   }
 
+  /* DO NOT TOUCH OR EDIT EXCEPT GIVEN PERMISSION TO DO SO */
   /* social media card */
   .card {
     position: relative;
