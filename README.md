@@ -2,7 +2,7 @@
 
 Welcome to our portfolio landing page! This is a simple showcase of our work and skills as [Group of Developers].
 
-![Portfolio Landing Page Screenshot](Design/Template.jfif)
+![Portfolio Landing Page Screenshot](Design/desktop.png)
 
 ## Table of Contents
 - [About](#about)
