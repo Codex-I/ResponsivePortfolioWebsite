@@ -2,7 +2,9 @@
 
 Welcome to our portfolio landing page! This is a simple showcase of our work and skills as [Group of Developers].
 
-![Portfolio Landing Page Screenshot](Design/desktop.png)
+![Portfolio Landing Page Screenshot desktop](Design/desktop.png)
+![Portfolio Landing Page Screenshot tablet](Design/tablet.png)
+![Portfolio Landing Page Screenshot mobile](Design/mobile.png)
 
 ## Table of Contents
 - [About](#about)
