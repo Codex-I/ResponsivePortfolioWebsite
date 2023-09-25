@@ -38,7 +38,7 @@ This portfolio landing page serves as an introduction to our work, projects, and
 
 
 ## Getting Started
-To view our portfolio landing page, you can simply visit [Portfolio URL](https://github.com/Procodx/ResponsivePortfolioWebsite.git). If you want to run this locally or contribute to the project, follow these steps:
+To view our portfolio landing page, you can simply visit [Portfolio URL](https://procodx.github.io/ResponsivePortfolioWebsite/). If you want to run this locally or contribute to the project, follow these steps:
 
 1. Clone this repository:
  - git clone https://github.com/Procodx/ResponsivePortfolioWebsite.git
